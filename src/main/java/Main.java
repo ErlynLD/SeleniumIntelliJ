@@ -4,4 +4,8 @@ public class Main {
         System.out.println("Hello World!");
         System.out.println("Here other line. Just using Git");
     }
+
+    /*
+    *  Comment from otroParaMerge
+    * */
 }
